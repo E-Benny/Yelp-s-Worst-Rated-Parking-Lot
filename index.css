@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .data-entry {
+    margin-top: 20px;
+  }
+  
+  input {
+    height: 56px;
+    width: 461px;
+    border-radius: 4px;
+    padding-left: 20px;
+  }
+  
+  button {
+    height: 36px;
+    width: 72px;
+    border-radius: 4px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: #ff1a1a;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #ff4d4d;
+  }
+  
+  img {
+    height: 50px;
+    border-radius: 100px;
+  }
+  
+  .header {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .left-header {
+    margin-right: 160px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .right-side {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    float: right;
+    gap: 35px;
+    cursor: pointer;
+    margin-top: -60px;
+  }
+  
+  .answer{
+    margin-top: 20px;
+  }
+  
+  .landing-page {
+    height: 100vh;
+    background: url("https://images.unsplash.com/photo-1576867757603-05b134ebc379?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0ODIwNTQ0Mg&ixlib=rb-1.2.1&q=85");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  label {
+    color: white;
+    font-size: 38px;
+  }
+  
+  h3 {
+    color: white;
+    font-size: 20px;
+  }

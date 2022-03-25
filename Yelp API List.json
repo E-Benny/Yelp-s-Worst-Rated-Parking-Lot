@@ -1,0 +1,443 @@
+{
+    "businesses": [
+        {
+            "id": "dOOM1KtbVasdYf45uc3mAQ",
+            "alias": "fine-airport-parking-tulsa",
+            "name": "Fine Airport Parking",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VuRBG_4WaqZwBnQ1Qw3kuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fine-airport-parking-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "auto_detailing",
+                    "title": "Auto Detailing"
+                },
+                {
+                    "alias": "parking",
+                    "title": "Parking"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.1833840646931,
+                "longitude": -95.88802050375
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2010 N Memorial Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74115",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "2010 N Memorial Dr",
+                    "Tulsa, OK 74115"
+                ]
+            },
+            "phone": "+19188328880",
+            "display_phone": "(918) 832-8880",
+            "distance": 7505.115549309819
+        },
+        {
+            "id": "jfuw18Zliyt8TH7-BuhZ0g",
+            "alias": "exquisite-valet-tulsa-3",
+            "name": "Exquisite Valet",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/exquisite-valet-tulsa-3?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "valetservices",
+                    "title": "Valet Services"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.1017113,
+                "longitude": -95.9117917
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5800 E Skelly Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Tulsa",
+                "zip_code": "74134",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "5800 E Skelly Dr",
+                    "Tulsa, OK 74134"
+                ]
+            },
+            "phone": "+19184812070",
+            "display_phone": "(918) 481-2070",
+            "distance": 2397.2422998652437
+        },
+        {
+            "id": "ApvA-En8FdWx0szdE8Q4BQ",
+            "alias": "american-parking-tulsa-2",
+            "name": "American Parking",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/american-parking-tulsa-2?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "parking",
+                    "title": "Parking"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.1505928039551,
+                "longitude": -95.9905090332031
+            },
+            "transactions": [],
+            "location": {
+                "address1": "15 W 6th St",
+                "address2": "Ste 802",
+                "address3": null,
+                "city": "Tulsa",
+                "zip_code": "74119",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "15 W 6th St",
+                    "Ste 802",
+                    "Tulsa, OK 74119"
+                ]
+            },
+            "phone": "+19185872747",
+            "display_phone": "(918) 587-2747",
+            "distance": 9663.605355078535
+        },
+        {
+            "id": "jOATqjojxHwvvupEN-fQ3A",
+            "alias": "tulsa-international-airport-tulsa-2",
+            "name": "Tulsa International Airport",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IxGBBrSp4Us3vw5lTFpSig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tulsa-international-airport-tulsa-2?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 231,
+            "categories": [
+                {
+                    "alias": "airports",
+                    "title": "Airports"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 36.1902015,
+                "longitude": -95.8903013
+            },
+            "transactions": [],
+            "location": {
+                "address1": "7777 Airport Dr",
+                "address2": "Ste A-211",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74115",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "7777 Airport Dr",
+                    "Ste A-211",
+                    "Tulsa, OK 74115"
+                ]
+            },
+            "phone": "+19188385000",
+            "display_phone": "(918) 838-5000",
+            "distance": 8256.698787715855
+        },
+        {
+            "id": "k4NfGZNJd2z8XQm3PaMIfw",
+            "alias": "central-parking-system-tulsa-3",
+            "name": "Central Parking System",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/central-parking-system-tulsa-3?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "parking",
+                    "title": "Parking"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.1544586473134,
+                "longitude": -95.9912131276323
+            },
+            "transactions": [],
+            "location": {
+                "address1": "20 E 2nd St",
+                "address2": null,
+                "address3": null,
+                "city": "Tulsa",
+                "zip_code": "74103",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "20 E 2nd St",
+                    "Tulsa, OK 74103"
+                ]
+            },
+            "phone": "+19185826515",
+            "display_phone": "(918) 582-6515",
+            "distance": 9773.776732916014
+        },
+        {
+            "id": "_wdHnsy3fdV2QqSFv5PDyw",
+            "alias": "hallmark-gold-crown-js-tulsa",
+            "name": "Hallmark Gold Crown-J's",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hallmark-gold-crown-js-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 1,
+            "categories": [],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 36.15475,
+                "longitude": -95.99392
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Farm Shopping Ctr",
+                "address2": "",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74103",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "Farm Shopping Ctr",
+                    "Tulsa, OK 74103"
+                ]
+            },
+            "phone": "+19186642000",
+            "display_phone": "(918) 664-2000",
+            "distance": 3221.528571657892
+        },
+        {
+            "id": "xdeNy8S-a1ufthAqkeWPAw",
+            "alias": "yellow-checker-cab-of-tulsa-tulsa",
+            "name": "Yellow Checker Cab of Tulsa",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-sJl3S93zqCNJtzPSn45AA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yellow-checker-cab-of-tulsa-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "taxis",
+                    "title": "Taxis"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 36.13375,
+                "longitude": -95.90771
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6131 E 21st St",
+                "address2": "",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74114",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "6131 E 21st St",
+                    "Tulsa, OK 74114"
+                ]
+            },
+            "phone": "+19185826161",
+            "display_phone": "(918) 582-6161",
+            "distance": 2457.4978945549497
+        },
+        {
+            "id": "0yO0QBgyF0gx8Y_NqZu0ew",
+            "alias": "john-casablancas-modeling-and-career-center-tulsa",
+            "name": "John Casablanca's Modeling & Career Center",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/john-casablancas-modeling-and-career-center-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 1,
+            "categories": [],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.065299987793,
+                "longitude": -95.8886337280273
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6808 S Memorial Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74133",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "6808 S Memorial Dr",
+                    "Tulsa, OK 74133"
+                ]
+            },
+            "phone": "+19184599900",
+            "display_phone": "(918) 459-9900",
+            "distance": 5780.797296832221
+        },
+        {
+            "id": "mZM0iaPnGeK6kjxPydCH9A",
+            "alias": "psi-exams-tulsa",
+            "name": "Psi Exams",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/psi-exams-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 2,
+            "categories": [],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.0894660949707,
+                "longitude": -95.9486923217773
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2816 E 51st St",
+                "address2": null,
+                "address3": null,
+                "city": "Tulsa",
+                "zip_code": "74105",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "2816 E 51st St",
+                    "Tulsa, OK 74105"
+                ]
+            },
+            "phone": "+19187438490",
+            "display_phone": "(918) 743-8490",
+            "distance": 5899.784550646004
+        },
+        {
+            "id": "xAOui3PhYK-tHDIJRg49Kg",
+            "alias": "american-parking-tulsa-7",
+            "name": "American Parking",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_jYGM0IGoXyN-xnc3zsbgA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/american-parking-tulsa-7?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "parking",
+                    "title": "Parking"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.1521568,
+                "longitude": -95.9905853
+            },
+            "transactions": [],
+            "location": {
+                "address1": "410 S Main St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74103",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "410 S Main St",
+                    "Ste A",
+                    "Tulsa, OK 74103"
+                ]
+            },
+            "phone": "+19185874141",
+            "display_phone": "(918) 587-4141",
+            "distance": 9773.963312441869
+        },
+        {
+            "id": "2oelOcSPSH5qTajc5Ako7A",
+            "alias": "loomis-fargo-and-co-tulsa",
+            "name": "Loomis Fargo & Co",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GLtmINwpBpn3tXIV3rjryg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/loomis-fargo-and-co-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 1,
+            "categories": [],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 36.15541,
+                "longitude": -95.9782
+            },
+            "transactions": [],
+            "location": {
+                "address1": "1100 E 4th St",
+                "address2": "",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74120",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "1100 E 4th St",
+                    "Tulsa, OK 74120"
+                ]
+            },
+            "phone": "+19185836400",
+            "display_phone": "(918) 583-6400",
+            "distance": 8915.382632261299
+        },
+        {
+            "id": "c8fvNxkYgP26GO1zv_v8Sw",
+            "alias": "united-airlines-tulsa",
+            "name": "United Airlines",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RuaslvxduJkx_uMPlx9AfQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/united-airlines-tulsa?adjust_creative=-EmVaJzOsiZVQ9-VGtqNpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-EmVaJzOsiZVQ9-VGtqNpQ",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "airlines",
+                    "title": "Airlines"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 36.1919,
+                "longitude": -95.889558
+            },
+            "transactions": [],
+            "location": {
+                "address1": "7777 Airport Dr",
+                "address2": "Concourse B",
+                "address3": "",
+                "city": "Tulsa",
+                "zip_code": "74115",
+                "country": "US",
+                "state": "OK",
+                "display_address": [
+                    "7777 Airport Dr",
+                    "Concourse B",
+                    "Tulsa, OK 74115"
+                ]
+            },
+            "phone": "+18008648331",
+            "display_phone": "(800) 864-8331",
+            "distance": 8446.839553945056
+        }
+    ],
+    "total": 12,
+    "region": {
+        "center": {
+            "longitude": -95.89176177978516,
+            "latitude": 36.11595650614661
+        }
+    }
+}
